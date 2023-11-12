@@ -1,2 +1,2 @@
-data/.pdf
-/venv
+data/*.pdf
+venv/
