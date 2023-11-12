@@ -1,0 +1,9 @@
+easyocr==1.7.1
+matplotlib==3.8.1
+opencv-python==4.8.1.78
+opencv-python-headless==4.8.1.78
+pandas==2.1.2
+Pillow==10.0.1
+PyMuPDF==1.23.6
+PyMuPDFb==1.23.6
+
